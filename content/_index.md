@@ -1,6 +1,5 @@
 ---
-title: "How to Prepare FortiManager 7.2.x for an SD-WAN POC
-Lab Guide"
+title: "How to Prepare FortiManager 7.2.x for an SD-WAN POC Lab Guide"
 chapter: true
 weight: 1
 ---

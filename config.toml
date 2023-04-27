@@ -2,7 +2,7 @@ baseURL = "https://fortinetsecdevops.github.io/DemoFrontEnd/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Hugo web framework for Fortinet Demos"
+title = "How to Prepare FortiManager 7.2.x for an SD-WAN POC Lab Guide"
 theme = ["hugo-notice", "hugo-theme-learn"]
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"
@@ -15,7 +15,7 @@ enableEmoji = true
   # See the config.toml file from this documentation site to have an example.
   #editURL = ""
   # Author of the site, will be used in meta information
-  author = "Jeff Kopko"
+  author = "Dustin King"
   # Description of the site, will be used in meta information
   description = "Hugo web framework for Fortinet Demos"
   # Shows a checkmark for visited pages on the menu
