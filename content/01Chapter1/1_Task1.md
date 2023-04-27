@@ -6,7 +6,7 @@ weight: 10
 
 ### Login to FMG
 
-1.	Login to your “FMG-LAB” using admin/fortinet credentials.
+- Login to your “FMG-LAB” using admin/fortinet credentials.
 ![login](login.png)
 
 ---

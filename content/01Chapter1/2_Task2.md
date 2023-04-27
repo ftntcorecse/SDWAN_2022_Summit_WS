@@ -7,7 +7,7 @@ weight: 20
 ### Navigate to Device Manager
 #### Review those things that have been accomplished for you to save time
 
-Click on Device Manager.
+- Click on Device Manager.
 ![Device Manager](d_mgr1.png)
 
 ‘HUB1’ and ‘HUB2’ model devices have already been created.  Also, a ‘Branches’ Device Group has been created which will be used later in this lab.
