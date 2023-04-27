@@ -1,7 +1,7 @@
 ---
 title: "Task 1 - Login to FMG"
 chapter: true
-weight: 1
+weight: 10
 ---
 
 ### Task 1 - Login to FMG

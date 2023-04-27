@@ -1,7 +1,7 @@
 ---
 title: "Task 2 - Navigate to Device Manager"
 chapter: true
-weight: 2
+weight: 20
 ---
 
 ### Task 2 - Navigate to Device Manager

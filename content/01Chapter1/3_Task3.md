@@ -1,14 +1,19 @@
 ---
-title: "Task 3 - Adjust config.toml site settings"
+title: "Task 3 - Create SD-WAN Overlay Template (SOT)"
 chapter: true
-weight: 3
+weight: 30
 ---
 
-### Task 2 - Adjust the config.toml file which controls overall paramaters for the site 
+### Task 3 - Create SD-WAN Overlay Template (SOT)
 
-1. Open the **config.toml** file under the repo root to change a few parameters of the site
-   * Edit the **baseUrl** to match the GitHub Page for your site (*you won't have this until you've done at least 1 GitHub action/build*)
-   * Add information URL's to the bottom of the leftnav bar with **[[menu.shortcuts]]**
-     * menu.shortcuts are displayed lowest to highest according to their weight
-   * Additional customizations can be made with **themeVariants**, but they won't be covered here
-   ![config](config.png)
+
+1. Navigate to Device Manager -> Provisioning Templates -> SD-WAN Overlay Template
+Click ```+ Create New``` button
+
+![Device Manager](d_mgr5.png)
+
+2. Provide a SDWAN Overlay Template Name
+
+  - ‘SD-WAN-2H-2UL-ADVPN’ name is used in this lab.  This name was chosen because there will be 2 Hubs, the Branches will have 2 underlays, and ADVPN will be enabled.
+
+![Overlay Template](sot.png)
