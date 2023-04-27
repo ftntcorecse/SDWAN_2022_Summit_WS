@@ -1,24 +1,19 @@
 ---
-title: "Fortinet Standard Workshop Web format - MVP1"
+title: "How to Prepare FortiManager 7.2.x for an SD-WAN POC
+Lab Guide"
 chapter: true
 weight: 1
 ---
 
-# Fortinet Standard Workshop Web format - MVP1
+# How to Prepare FortiManager 7.2.x for an SD-WAN POC 
+## Lab Guide
 
-### Welcome!
+**Written By NA CSE:**  Dustin King, Tim Murphy, and Matt Reid
 
-This site, hosted on GitHub Pages, will explain how to use the Hugo Web Framework "Learning Theme" to effectively deliver Fortinet Product demos in a constent, simple, and visually appealing format.
+___
 
-The beauty of this framework lies in its simplicity.  Within approx 30 mins, anybody can have a site up and running.  Content is created via Markdown files, and the course layout is simply a folder structure.
+![Prepare FMG PoC](frontpage_pic.jpg)
 
-Follow along on this simple tutorial to get up and running with a Hugo formatted site for your training/demo content today!
 
-### Learning Objectives
-- Setup hugo on your system and clone this repo for re-usable starting point
-- Customize the Hugo content folder to display proper information flow for your content/demo/training
-- Publish your Hugo site to GitHub pages via a CI/CD model (GitHub action will automatically re-build your Hugo content whenever you push to the underlying repo)
 
-# About Hugo and Fortinet TECRecipies
-
-# !!!!!!!!!!!!!! RECREATE NEW CONTENT FOR EVERYTHING BELOW HERE !!!!!!!!!!!!!
+###### Copyright © 2022 Fortinet, Inc. All rights reserved. Fortinet®, FortiGate®, FortiCare®, and FortiGuard®, and certain other marks are registered trademarks of Fortinet, Inc., and other Fortinet names herein may also be registered and/or common law trademarks of Fortinet. All other product or company names may be trademarks of their respective owners. Performance and other metrics contained herein were attained in internal lab tests under ideal conditions, and actual performance and other results may vary. Network variables, different network environments and other conditions may affect performance results. Nothing herein represents any binding commitment by Fortinet, and Fortinet disclaims all warranties, whether express or implied, except to the extent Fortinet enters a binding written contract, signed by Fortinet’s General Counsel, with a purchaser that expressly warrants that the identified product will perform according to certain expressly-identified performance metrics and, in such event, only the specific performance metrics expressly identified in such binding written contract shall be binding on Fortinet. For absolute clarity, any such warranty will be limited to performance in the same ideal conditions as in Fortinet’s internal lab tests. Fortinet disclaims in full any covenants, representations, and guarantees pursuant hereto, whether express or implied. Fortinet reserves the right to change, modify, transfer, or otherwise revise this publication without notice, and the most current version of the publication shall be applicable.
