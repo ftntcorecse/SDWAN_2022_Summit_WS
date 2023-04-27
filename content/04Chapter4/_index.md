@@ -1,5 +1,5 @@
 ---
-title: "Ch 4 Configuring Your FMG-POC"
+title: "Ch 4 Config Deployment"
 chapter: true
 weight: 40
 ---

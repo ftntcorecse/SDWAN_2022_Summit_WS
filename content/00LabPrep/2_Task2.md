@@ -1,6 +1,6 @@
 ---
 title: "Lab Preparation - Diagram"
-chapter: false
+chapter: true
 weight: 20
 ---
 
