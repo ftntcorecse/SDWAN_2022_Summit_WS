@@ -1,10 +1,10 @@
 ---
-title: "Task 1 - Login to FMG"
+title: "Login to FMG"
 chapter: true
 weight: 10
 ---
 
-### Task 1 - Login to FMG
+### Login to FMG
 
 1.	Login to your “FMG-LAB” using admin/fortinet credentials.
 ![login](login.png)

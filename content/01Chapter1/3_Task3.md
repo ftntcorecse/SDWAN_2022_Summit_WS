@@ -1,10 +1,10 @@
 ---
-title: "Task 3 - Create SD-WAN Overlay Template (SOT)"
+title: "Create SD-WAN Overlay Template (SOT)"
 chapter: true
 weight: 30
 ---
 
-### Task 3 - Create SD-WAN Overlay Template (SOT)
+### Create SD-WAN Overlay Template (SOT)
 
 
 1. Navigate to Device Manager -> Provisioning Templates -> SD-WAN Overlay Template

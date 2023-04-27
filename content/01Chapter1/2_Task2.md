@@ -1,10 +1,10 @@
 ---
-title: "Task 2 - Navigate to Device Manager"
+title: "Navigate to Device Manager"
 chapter: true
 weight: 20
 ---
 
-### Task 2 - Navigate to Device Manager
+### Navigate to Device Manager
 #### Review those things that have been accomplished for you to save time
 
 Click on Device Manager.
