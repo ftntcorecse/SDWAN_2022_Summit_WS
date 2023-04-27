@@ -53,13 +53,18 @@ enableEmoji = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[[menu.shortcuts]]
+name = "<i class='fas fa-video'></i> Lab Video - Follow Along"
+url = "https://docs.fortinet.com/4d-resources/SD-WAN"
+weight = 9
+
 [[menu.shortcuts]] 
-name = "<i class='fas fa-graduation-cap'></i> Fortinet SDWAN Docs"
+name = "<i class='fas fa-book'></i> Fortinet SDWAN Docs"
 url = "https://docs.fortinet.com/sdwan"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-tools'></i> Fortinet 4-D SDWAN Resources"
+name = "<i class='fas fa-book'></i> Fortinet 4-D SDWAN Resources"
 url = "https://docs.fortinet.com/4d-resources/SD-WAN"
 weight = 11
 
