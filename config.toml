@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 
 title = "Hugo web framework for Fortinet Demos"
-theme = ["hugo-notice", "hugo-theme-learn"]
+theme = ["hugo-notice", "hugo-theme-workshop"]
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"
 uglyurls = "true"
