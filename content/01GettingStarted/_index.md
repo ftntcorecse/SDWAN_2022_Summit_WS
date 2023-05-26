@@ -1,5 +1,5 @@
 ---
-title: "Ch 1 Getting Started with Hugo"
+title: "Ch 1 Getting Started"
 chapter: true
 weight: 10
 ---

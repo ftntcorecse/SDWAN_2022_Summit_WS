@@ -64,7 +64,7 @@ url = "https://fortinetsecdevops.github.io/technical-recipe-azure-sdwan/"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-tools'></i>Fortinet Standard Workshop Git Repo - MVP1"
+name = "<i class='fas fa-tools'></i> Fortinet Standard Workshop Git Repo - MVP1"
 url = "https://github.com/FortinetSecDevOps/technical-recipe-azure-sdwan"
 weight = 21
 
