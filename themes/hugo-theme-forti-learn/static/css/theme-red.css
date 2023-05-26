@@ -1,6 +1,24 @@
 
 :root{
 
+    /* Uncomment Based on Presentation Type */
+
+    /* Workshop */
+    --MENU-HEADER-BG-color:#da291c; 
+    --MENU-VISITED-color: #da291c; 
+
+    /* Demo */
+    /* --MENU-HEADER-BG-color:#3cb17e;  */
+    /* --MENU-VISITED-color: #3cb17e;  */
+
+    /* Use Cases */
+    /* --MENU-HEADER-BG-color:#307FE2; */
+    /* --MENU-VISITED-color: #307FE2;  */
+
+    /* Spot Light */
+    /* --MENU-HEADER-BG-color:#9063cd; */
+    /* --MENU-VISITED-color: #9063cd;  */
+
     --MAIN-TEXT-color:#323232; /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #fff; /* Color of titles h2-h3-h4-h5 */
     --MAIN-LINK-color: #1C90F3; /* << blue; >> red#f31c1c; /* Color of links */
@@ -10,7 +28,6 @@
     --MENU-HOME-LINK-color: #ccc; /* Color of the home button text */
     --MENU-HOME-LINK-HOVER-color: #e6e6e6; /* Color of the hovered home button text */
 
-    --MENU-HEADER-BG-color:#da291c; /* Background color of menu header */
     --MENU-HEADER-BORDER-color:#000; /*Color of menu header border */
 
     --MENU-SEARCH-BG-color: #fff; /*# b90000; /* Search field background color (by default borders + icons) */
@@ -24,7 +41,6 @@
     --MENU-SECTION-ACTIVE-CATEGORY-color: #000; /* Color of active category text */
     --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #fff; /* Color of background for the active category (only) */
 
-    --MENU-VISITED-color: #ff3333; /* Color of 'page visited' icons in menu */
     --MENU-SECTION-HR-color: #464646; /* Color of <hr> separator in menu */
 
 }
